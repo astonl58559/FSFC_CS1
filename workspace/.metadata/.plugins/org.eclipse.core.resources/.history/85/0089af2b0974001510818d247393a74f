@@ -1,0 +1,29 @@
+package switchstatementexercise;
+
+import java.util.Scanner;
+
+public class Exercise {
+
+	public static void main(String[] args) {
+		// 
+	static void checkEligibility(){
+	
+		int age;
+	Scanner sc= new Scanner(System.in);
+	System.out.println("How old are you");
+	age=sc.nextInt("18")
+		
+	if(age>=17);
+	System.out.println("You can drive");
+	
+	
+	
+
+		
+	}
+	
+
+
+	}
+
+}

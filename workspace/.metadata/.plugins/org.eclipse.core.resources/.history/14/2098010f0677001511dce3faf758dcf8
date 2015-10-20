@@ -1,0 +1,22 @@
+package ascomputer.exercises;
+
+import java.util.Scanner;
+
+public class oddeven {
+
+	private static Scanner in;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int x;
+System.out.println("Enter a value");
+in = new Scanner(System.in);
+x = in.nextInt(4);
+
+if(x % 2==0)
+	System.out.println("Even Number");
+else
+	System.out.println("Odd Number");
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;switchstatement&apos; to &apos;Switch Statement/src/switchstatementexercise&apos;&#x0D;&#x0A;- Original project: &apos;If and Loops&apos;&#x0D;&#x0A;- Destination element: &apos;Switch Statement/src/switchstatementexercise&apos;&#x0D;&#x0A;- Original element: &apos;If and Loops/src/switchstatement&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Switch Statement/src&lt;switchstatementexercise" element1="/src&lt;switchstatement" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1445001005476" version="1.0"/>
+</session>

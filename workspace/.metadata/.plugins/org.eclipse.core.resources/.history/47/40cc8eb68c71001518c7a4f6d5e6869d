@@ -1,0 +1,14 @@
+package Testing;
+
+public class testing1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        String firstName ="Aston";
+        String lastName ="Levens";
+        System.out.println(firstName.equals(lastName));
+        String fullName ="firstName + lastName";
+        
+        }
+
+}
